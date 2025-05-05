@@ -1,6 +1,6 @@
 # Word Guessing Game (C)
 
-This is a simple word guessing game written in C, similar to Hangman.
+This is a simple word guessing game written in C.
 
 ## How to Run
 
