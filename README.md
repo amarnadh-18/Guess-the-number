@@ -7,13 +7,13 @@ This is a simple word guessing game written in C.
 1. Compile the code:
 
    ```bash
-   gcc -o game game.c
+   gcc -o guess_the_number.c
    ```
 
 2. Run the game:
    
    ```bash
-   ./game
+   ./guess_the_number
    ```
 
 ---
